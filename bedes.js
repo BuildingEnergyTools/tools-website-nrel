@@ -390,7 +390,7 @@ class ResourcesComponent {
     }
 }
 ResourcesComponent.ɵfac = function ResourcesComponent_Factory(t) { return new (t || ResourcesComponent)(); };
-ResourcesComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ResourcesComponent, selectors: [["ng-component"]], decls: 26, vars: 0, consts: [[1, "mat-h2", "mb-4"], ["href", "https://bedes.lbl.gov/bedes-online", "target", "_blank"], ["href", "https://bedes.lbl.gov/common-composite-terms", "target", "_blank"], ["href", "https://docs.google.com/document/d/1wvkugBc5UZ4v6mhjFCDoaqOmZreJ3hrcJDcp36tClmQ/edit#heading=h.1araki8oh4y5", "target", "_blank"], ["href", "https://bedes-manager.lbl.gov/home/login", "target", "_blank"], ["href", "https://docs.google.com/document/d/1a021yCc8Op_NyYGnoyLgWdBteHEf0P6soYs5k3jXyY8/edit#heading=h.s9gdanqlui5x", "target", "_blank"], ["href", "https://bedes.lbl.gov/comparison", "target", "_blank"], ["href", "https://www.aceee.org/files/proceedings/2014/data/papers/6-650.pdf", "target", "_blank"]], template: function ResourcesComponent_Template(rf, ctx) { if (rf & 1) {
+ResourcesComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ResourcesComponent, selectors: [["ng-component"]], decls: 27, vars: 0, consts: [[1, "mat-h2", "mb-4"], ["href", "https://bedes.lbl.gov/bedes-online", "target", "_blank"], ["href", "https://bedes.lbl.gov/common-composite-terms", "target", "_blank"], ["href", "https://docs.google.com/document/d/1wvkugBc5UZ4v6mhjFCDoaqOmZreJ3hrcJDcp36tClmQ/edit#heading=h.1araki8oh4y5", "target", "_blank"], ["href", "https://bedes-manager.lbl.gov/home/login", "target", "_blank"], ["href", "https://docs.google.com/document/d/1a021yCc8Op_NyYGnoyLgWdBteHEf0P6soYs5k3jXyY8/edit#heading=h.s9gdanqlui5x", "target", "_blank"], ["href", "https://bedes.lbl.gov/comparison", "target", "_blank"], ["href", "https://www.aceee.org/files/proceedings/2014/data/papers/6-650.pdf", "target", "_blank"], ["src", "/assets/images/icon_pdf.gif", "alt", "PDF"]], template: function ResourcesComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "h2", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1, "Resources");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -430,7 +430,8 @@ ResourcesComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefin
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](23, "li");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](24, "a", 7);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](25, "ACEEE Paper: Enabling Interoperability though a Common Language for Building Performance");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](25, "ACEEE Paper: Enabling Interoperability though a Common Language for Building Performance ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](26, "img", 8);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();

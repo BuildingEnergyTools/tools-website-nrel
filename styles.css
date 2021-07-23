@@ -3101,6 +3101,8 @@ readers do not read off random characters that represent icons */
   font-family: 'Font Awesome 5 Free';
   font-weight: 900; }
 
+/* old analysis color */
+/* #478662 */
 * {
   box-sizing: border-box;
 }
